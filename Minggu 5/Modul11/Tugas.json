@@ -1,0 +1,24 @@
+{
+	"nama": {
+		"awal" : "Robby",
+		"akhir" : "Satya Wicaksana"
+    },
+	"umur": 20 ,
+    "jenis_kelamin": "Laki - laki ",
+    "ttl": "New Zealand, 22 Maret 2000",
+    "orang_tua": {
+        "ayah": "404 Not Found",
+        "ibu" : "404 Not Found"
+    },
+	"alamat": {
+		"jl" : "Jl. Nangka 1" , 
+		"kecamatan" : "Sukaribu" ,
+		"kota" : "Bandar Lampung" 
+	} ,
+    "hobi": ["Ngoding Kadang-Kadang", "Ngedit", "Ngelem", "Nonton", "Tidur"],
+	"social_media": {
+        "instagram": "robby.satya",
+        "facebook": "404 Not Found"
+    },
+    "alat_tempur":["Laptop Thinkpad T450s", "Mouse Logitech", "Seagate Harddisk 1TB"]
+}
